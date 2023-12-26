@@ -16,14 +16,14 @@
 ### STEP 6: After the process is complete click on 'Stop Process' to view product generated using FDM process.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/998a5e1b-4fea-4f03-a323-dd49973513a7)
-![123_2](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/92d9d5de-1d13-43b2-a354-c3429e38d50b)
-![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
+![286155147-2eec873c-040f-4513-9f1f-5cc9c617aee3 (1)](https://github.com/navinofficial/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/151710204/2f625017-7d6f-4800-b445-37c1742ea964)
+![286155343-d243d4e6-2e9a-49a2-848d-874a589a1d23 (1)](https://github.com/navinofficial/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/151710204/52e99839-a82e-4208-9b60-e2295ed63fc9)
+![286155585-5ec58364-2179-4f37-9398-412702ce7fde (1)](https://github.com/navinofficial/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/151710204/aac6c67c-b39e-4195-a229-4e81a5e90ad7)
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:NAVINKUMAR V
+### Register Number:212223230141
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
